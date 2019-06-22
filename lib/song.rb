@@ -23,4 +23,12 @@ class Song
   def self.artists
     @@artists
   end
+
+  def self.genre_count
+    @@genres.each do {|k, v| }
+  end
+
+  def self.artist 
+
+  end
 end
