@@ -28,7 +28,7 @@ class Song
     @@genres.each do {|k, v| }
   end
 
-  def self.artist 
+  def self.artist
 
   end
 end
